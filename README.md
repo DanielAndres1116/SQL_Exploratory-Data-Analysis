@@ -7,7 +7,7 @@ I used three datasets and are available on the on the city of Chicago's Portal.
 
 The first dataset contains a selection of six socioeconomic indicators of public health significance and a "hardship index" of each Chicago community area. The second dataset shows all school level performance data used to create School Report Cards. and The third dataser reflects reported incidents of crime that occurred in the City of Chicago. Due this last dataset is quite larger, for the purposes of this exercise I used a much smaller sample of this dataset, and it is a subset of the original dataset.
 
-On the notebook are explained more details of the datasets and also are shown the links where we can download it. 
+On the notebook are explained more details of the datasets and also are shown the links where we can download it and its deep explanations.
 
 ### Objectives
 Understand the 3 datasets in question, load it into 3 tables in Watson Studio Platform in the section of Db2 database and execute SQL queries to the datasets. To communicate with SQL Databases from within a JupyterLab Notebook. I used the SQL "magic" provided by the ipython-sql extension.

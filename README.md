@@ -3,7 +3,7 @@
 #### Note: If you can't see the notebook here, prove clicking this link: https://nbviewer.jupyter.org/github/DanielAndres1116/SQL_Exploratory-Data-Analysis/blob/main/SQL_ExploratoryDataAnalysis.ipynb
 
 ### Dataset Description
-I used three datasets and are available on the on the city of Chicago's Portal. 
+I used three datasets that are available on the city of Chicago's Portal. 
 
 The first dataset contains a selection of six socioeconomic indicators of public health significance and a "hardship index" of each Chicago community area. The second dataset shows all school level performance data used to create School Report Cards. and The third dataser reflects reported incidents of crime that occurred in the City of Chicago. Due this last dataset is quite larger, for the purposes of this exercise I used a much smaller sample of this dataset, and it is a subset of the original dataset.
 
@@ -32,7 +32,3 @@ I put in practice different types of queries to the data as:
 ### Conclusions
 
 The SQL-queries are very useful to explore and understand whatever type of datasets. An it is possible make queries to datasets inside databases on cloud. Due the commands and functions that we can execute using SQL, we are able to make great Exploratory Analysis of the datasets. 
-
-
-
-

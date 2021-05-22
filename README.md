@@ -1,6 +1,6 @@
 # SQL_Exploratory-Data-Analysis
 
-#### Note: If you can't see the notebook here, prove clicking this link: https://nbviewer.jupyter.org/github/DanielAndres1116/SQL_Exploratory-Data-Analysis/blob/main/SQL_ExploratoryDataAnalysis.ipynb
+#### Note: If you can't see the notebook here, prove clicking this link: https://nbviewer.jupyter.org/github/DanielAndres1116/SQL_Exploratory-Data-Analysis/blob/main/SQL_Data_Analysis.ipynb
 
 ### Dataset Description
 I used three datasets that are available on the city of Chicago's Portal. 

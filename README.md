@@ -11,6 +11,7 @@ El primer conjunto de datos se trata de una tabla que contiene una selección de
 ![imagen](https://user-images.githubusercontent.com/43154438/120733577-1b386880-c4ad-11eb-94a2-06cb55550759.png)
 
 #### Tabla 1 - Indicadores Socioeconómicos
+Enlace: https://data.cityofchicago.org/Health-Human-Services/Census-Data-Selected-socioeconomic-indicators-in-C/kn9c-c2s2
 
 
 
@@ -19,6 +20,7 @@ El segundo conjunto de datos muestra todos los datos de rendimiento a nivel esco
 ![imagen](https://user-images.githubusercontent.com/43154438/120734688-efb67d80-c4ae-11eb-8906-1c0a95917858.png)
 
 #### Tabla 2 - Indicadores Escolares
+Enlace: https://data.cityofchicago.org/Education/Chicago-Public-Schools-Progress-Report-Cards-2011-/9xs2-f89t
 
 
 
@@ -27,6 +29,7 @@ El tercer conjunto de datos refleja los incidentes de delitos denunciados que oc
 ![imagen](https://user-images.githubusercontent.com/43154438/120735106-9dc22780-c4af-11eb-80da-3d54e57a9903.png)
 
 #### Tabla 3 - Indicadores de Crímenes
+Enlace: https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2
 
 De cada una de estas tablas se puede extraer variada cantidad de información con el fin de hacer estudios de diferente índole. 
 

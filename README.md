@@ -1,6 +1,4 @@
-# SQL_Exploratory-Data-Analysis
-
-#### Note: If you can't see the notebook here, prove clicking this link: https://nbviewer.jupyter.org/github/DanielAndres1116/SQL_Exploratory-Data-Analysis/blob/main/SQL_Data_Analysis.ipynb
+# EXPLORACIÓN DE BASES DE DATOS MEDIANTE SQL
 
 ### Descripción del conjunto de datos analizado
 
@@ -80,3 +78,5 @@ A continuación algunos de los resultados de las consultas:
 ![imagen](https://user-images.githubusercontent.com/43154438/120738511-930a9100-c4b5-11eb-93f1-0815af24b858.png)
 
 En el Notebook (.ipynb) está mejor explicada cada parte del código de programación. 
+
+#### Nota: también se puede ver el código acá: https://nbviewer.jupyter.org/github/DanielAndres1116/SQL_Exploratory-Data-Analysis/blob/main/SQL_Data_Analysis.ipynb

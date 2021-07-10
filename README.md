@@ -55,7 +55,7 @@ Los diferentes tipos de consulta que se hicieron a los datos fueron:
 - Hallar el ingreso Per-Cápita de las áreas comunitarias que tienen el mayor puntaje de seguridad escolar. 
 
 
-### Conclusions
+### Conclusiones
 
 Cualquiera que sea el conjunto de datos y los tipos de datos guardados en su interior, es posible realizar consultas mediante comandos del lenguaje SQL permitiendo así su exploración y entendimiento, dentro o fuera de una nube en diferentes plataformas web. 
 

@@ -45,7 +45,7 @@ Los diferentes tipos de consulta que se hicieron a los datos fueron:
 
 - Conteo del número total de crímenes
 - Conteo de la cantidad de crímenes que involucraron un arresto
-- Averiguar cuántos crímenes registrados hubo de cada tipo en ubicaciones de gasolineras (robos, robos a mano armada, venta de carcóticos, etc.), esta clase de consulta puede aplicarse a cada tipo de local. 
+- Averiguar cuántos crímenes registrados hubo de cada tipo en ubicaciones de gasolineras (robos, robos a mano armada, venta de narcóticos, etc.), esta clase de consulta puede aplicarse a cada tipo de local. 
 - Extraer la información de Areas Comunitarias que inicien con cierta letra
 - Saber cuales escuelas de determinada comunidad están altamente certificadas
 - Consultar cuales escuelas en determinada area comunitaria tienen certificaciones en alta calidad
